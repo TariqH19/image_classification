@@ -1,4 +1,4 @@
-# Project Title
+# Tom and Jerry Image Classification
 
 A CNN that preforms image classification on images of tom and Jerry
 
